@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap');
+    
+body{
+    text-align: center;
+    background: rgb(255,170,204);
+background: linear-gradient(90deg, rgba(255,170,204,1) 25%, rgba(204,221,255,1) 61%);
+}
+
+marquee{
+    font-family: cursive;
+    color: cadetblue;
+}
+
+h1{
+    font-family: 'Redressed', cursive;
+    color: darkblue;
+    
+}
+
+#ContactUs{
+    background: rgb(204,238,255);
+background: linear-gradient(90deg, rgba(204,238,255,1) 25%, rgba(204,170,255,1) 61%);
+}
+
+h3{
+ font-family: 'Boogaloo', cursive;   
+}
